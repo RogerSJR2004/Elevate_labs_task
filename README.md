@@ -1,8 +1,8 @@
 🚀 ElevateLabs - Data Analyst Internship
-About This Repository
-Welcome to my ElevateLabs Data Analyst Internship repository!
-This space is dedicated to documenting my journey, learnings, and tasks completed during my internship at ElevateLabs as a Data Analyst Intern.
 
+Welcome to my ElevateLabs Data Analyst Internship repository!
+
+This space is dedicated to documenting my journey, learnings, and tasks completed during my internship at ElevateLabs as a Data Analyst Intern.
 Throughout the internship, I am working on various real-world data analysis projects, including:
 
 Data Cleaning
